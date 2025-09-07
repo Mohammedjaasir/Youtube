@@ -20,23 +20,8 @@ This document explains the **complete automation workflow** we built in the vide
 * ![Google Logo](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg)
   **Google Nano Banana (Gemini 2.5 Flash)** for AI-powered **image editing**.
 
-* ![Google Cloud](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg)
-  **Google V3 (Video Gen)** for **UGC video generation**.
-
 * ![n8n](https://n8n.io/favicon.ico)
   **n8n** for building and automating the workflow.
-
-* ![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)
-  **Telegram Bot** as user interface for sending prompts & images.
-
-* ![ImageBB](https://static-00.iconduck.com/assets.00/imgbb-icon-2048x2048-yrf8yt6q.png)
-  **ImageBB** for uploading & generating image URLs.
-
-* ![OpenAI](https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg)
-  **OpenAI GPT** for prompt cleaning, intent classification & natural feedback handling.
-
-* ![KeyAI](https://avatars.githubusercontent.com/u/142993018?s=200\&v=4)
-  **KeyAI / Replicate / FAL** as third-party APIs for stable video generation.
 
 ---
 
